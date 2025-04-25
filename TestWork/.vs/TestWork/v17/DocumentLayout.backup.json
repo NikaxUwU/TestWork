@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UwU\\source\\repos\\Test\\TestWork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6693361F-54AB-4766-94BB-B0B903CAD94C}|TestWork\\TestWork.csproj|c:\\users\\uwu\\source\\repos\\test\\testwork\\testwork\\controllers\\imgcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6693361F-54AB-4766-94BB-B0B903CAD94C}|TestWork\\TestWork.csproj|solutionrelative:testwork\\controllers\\imgcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6693361F-54AB-4766-94BB-B0B903CAD94C}|TestWork\\TestWork.csproj|c:\\users\\uwu\\source\\repos\\test\\testwork\\testwork\\migrations\\20250424204541_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6693361F-54AB-4766-94BB-B0B903CAD94C}|TestWork\\TestWork.csproj|solutionrelative:testwork\\migrations\\20250424204541_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6693361F-54AB-4766-94BB-B0B903CAD94C}|TestWork\\TestWork.csproj|c:\\users\\uwu\\source\\repos\\test\\testwork\\testwork\\migrations\\adddbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6693361F-54AB-4766-94BB-B0B903CAD94C}|TestWork\\TestWork.csproj|solutionrelative:testwork\\migrations\\adddbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6693361F-54AB-4766-94BB-B0B903CAD94C}|TestWork\\TestWork.csproj|c:\\users\\uwu\\source\\repos\\test\\testwork\\testwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6693361F-54AB-4766-94BB-B0B903CAD94C}|TestWork\\TestWork.csproj|solutionrelative:testwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6693361F-54AB-4766-94BB-B0B903CAD94C}|TestWork\\TestWork.csproj|c:\\users\\uwu\\source\\repos\\test\\testwork\\testwork\\model\\img.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6693361F-54AB-4766-94BB-B0B903CAD94C}|TestWork\\TestWork.csproj|solutionrelative:testwork\\model\\img.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6693361F-54AB-4766-94BB-B0B903CAD94C}|TestWork\\TestWork.csproj|c:\\users\\uwu\\source\\repos\\test\\testwork\\testwork\\data\\adddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6693361F-54AB-4766-94BB-B0B903CAD94C}|TestWork\\TestWork.csproj|solutionrelative:testwork\\data\\adddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6693361F-54AB-4766-94BB-B0B903CAD94C}|TestWork\\TestWork.csproj|c:\\users\\uwu\\source\\repos\\test\\testwork\\testwork\\testwork.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6693361F-54AB-4766-94BB-B0B903CAD94C}|TestWork\\TestWork.csproj|solutionrelative:testwork\\testwork.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6693361F-54AB-4766-94BB-B0B903CAD94C}|TestWork\\TestWork.csproj|c:\\users\\uwu\\source\\repos\\test\\testwork\\testwork\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6693361F-54AB-4766-94BB-B0B903CAD94C}|TestWork\\TestWork.csproj|solutionrelative:testwork\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6693361F-54AB-4766-94BB-B0B903CAD94C}|TestWork\\TestWork.csproj|c:\\users\\uwu\\source\\repos\\test\\testwork\\testwork\\testwork.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6693361F-54AB-4766-94BB-B0B903CAD94C}|TestWork\\TestWork.csproj|solutionrelative:testwork\\testwork.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250424204541_Init.cs",
+              "DocumentMoniker": "C:\\Users\\UwU\\source\\repos\\Test\\TestWork\\TestWork\\Migrations\\20250424204541_Init.cs",
+              "RelativeDocumentMoniker": "TestWork\\Migrations\\20250424204541_Init.cs",
+              "ToolTip": "C:\\Users\\UwU\\source\\repos\\Test\\TestWork\\TestWork\\Migrations\\20250424204541_Init.cs",
+              "RelativeToolTip": "TestWork\\Migrations\\20250424204541_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:49:40.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\UwU\\source\\repos\\Test\\TestWork\\TestWork\\Migrations\\AddDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "TestWork\\Migrations\\AddDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\UwU\\source\\repos\\Test\\TestWork\\TestWork\\Migrations\\AddDbContextModelSnapshot.cs",
+              "RelativeToolTip": "TestWork\\Migrations\\AddDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:49:38.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImgController.cs",
+              "DocumentMoniker": "C:\\Users\\UwU\\source\\repos\\Test\\TestWork\\TestWork\\Controllers\\ImgController.cs",
+              "RelativeDocumentMoniker": "TestWork\\Controllers\\ImgController.cs",
+              "ToolTip": "C:\\Users\\UwU\\source\\repos\\Test\\TestWork\\TestWork\\Controllers\\ImgController.cs",
+              "RelativeToolTip": "TestWork\\Controllers\\ImgController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAApwA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T20:55:11.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Img.cs",
+              "DocumentMoniker": "C:\\Users\\UwU\\source\\repos\\Test\\TestWork\\TestWork\\Model\\Img.cs",
+              "RelativeDocumentMoniker": "TestWork\\Model\\Img.cs",
+              "ToolTip": "C:\\Users\\UwU\\source\\repos\\Test\\TestWork\\TestWork\\Model\\Img.cs",
+              "RelativeToolTip": "TestWork\\Model\\Img.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T20:19:09.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TestWork.csproj",
+              "DocumentMoniker": "C:\\Users\\UwU\\source\\repos\\Test\\TestWork\\TestWork\\TestWork.csproj",
+              "RelativeDocumentMoniker": "TestWork\\TestWork.csproj",
+              "ToolTip": "C:\\Users\\UwU\\source\\repos\\Test\\TestWork\\TestWork\\TestWork.csproj",
+              "RelativeToolTip": "TestWork\\TestWork.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-24T20:18:31.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\UwU\\source\\repos\\Test\\TestWork\\TestWork\\Data\\AddDbContext.cs",
+              "RelativeDocumentMoniker": "TestWork\\Data\\AddDbContext.cs",
+              "ToolTip": "C:\\Users\\UwU\\source\\repos\\Test\\TestWork\\TestWork\\Data\\AddDbContext.cs",
+              "RelativeToolTip": "TestWork\\Data\\AddDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T20:14:12.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestWork.http",
+              "DocumentMoniker": "C:\\Users\\UwU\\source\\repos\\Test\\TestWork\\TestWork\\TestWork.http",
+              "RelativeDocumentMoniker": "TestWork\\TestWork.http",
+              "ToolTip": "C:\\Users\\UwU\\source\\repos\\Test\\TestWork\\TestWork\\TestWork.http",
+              "RelativeToolTip": "TestWork\\TestWork.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-24T20:11:58.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\UwU\\source\\repos\\Test\\TestWork\\TestWork\\appsettings.json",
+              "RelativeDocumentMoniker": "TestWork\\appsettings.json",
+              "ToolTip": "C:\\Users\\UwU\\source\\repos\\Test\\TestWork\\TestWork\\appsettings.json",
+              "RelativeToolTip": "TestWork\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-24T20:06:57.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UwU\\source\\repos\\Test\\TestWork\\TestWork\\Program.cs",
+              "RelativeDocumentMoniker": "TestWork\\Program.cs",
+              "ToolTip": "C:\\Users\\UwU\\source\\repos\\Test\\TestWork\\TestWork\\Program.cs",
+              "RelativeToolTip": "TestWork\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T20:03:32.219Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

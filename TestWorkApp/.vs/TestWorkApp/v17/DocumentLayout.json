@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UwU\\source\\repos\\Test\\TestWorkApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3CADD9-87C4-4D17-857A-D027546557DD}|TestWorkApp\\TestWorkApp.csproj|c:\\users\\uwu\\source\\repos\\test\\testworkapp\\testworkapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3CADD9-87C4-4D17-857A-D027546557DD}|TestWorkApp\\TestWorkApp.csproj|solutionrelative:testworkapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3CADD9-87C4-4D17-857A-D027546557DD}|TestWorkApp\\TestWorkApp.csproj|c:\\users\\uwu\\source\\repos\\test\\testworkapp\\testworkapp\\testworkapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE3CADD9-87C4-4D17-857A-D027546557DD}|TestWorkApp\\TestWorkApp.csproj|solutionrelative:testworkapp\\testworkapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3CADD9-87C4-4D17-857A-D027546557DD}|TestWorkApp\\TestWorkApp.csproj|c:\\users\\uwu\\source\\repos\\test\\testworkapp\\testworkapp\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE3CADD9-87C4-4D17-857A-D027546557DD}|TestWorkApp\\TestWorkApp.csproj|solutionrelative:testworkapp\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3CADD9-87C4-4D17-857A-D027546557DD}|TestWorkApp\\TestWorkApp.csproj|c:\\users\\uwu\\source\\repos\\test\\testworkapp\\testworkapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CE3CADD9-87C4-4D17-857A-D027546557DD}|TestWorkApp\\TestWorkApp.csproj|solutionrelative:testworkapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "config.json",
+              "DocumentMoniker": "C:\\Users\\UwU\\source\\repos\\Test\\TestWorkApp\\TestWorkApp\\config.json",
+              "RelativeDocumentMoniker": "TestWorkApp\\config.json",
+              "ToolTip": "C:\\Users\\UwU\\source\\repos\\Test\\TestWorkApp\\TestWorkApp\\config.json",
+              "RelativeToolTip": "TestWorkApp\\config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-25T09:14:01.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestWorkApp.csproj",
+              "DocumentMoniker": "C:\\Users\\UwU\\source\\repos\\Test\\TestWorkApp\\TestWorkApp\\TestWorkApp.csproj",
+              "RelativeDocumentMoniker": "TestWorkApp\\TestWorkApp.csproj",
+              "ToolTip": "C:\\Users\\UwU\\source\\repos\\Test\\TestWorkApp\\TestWorkApp\\TestWorkApp.csproj",
+              "RelativeToolTip": "TestWorkApp\\TestWorkApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-25T04:17:22.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\UwU\\source\\repos\\Test\\TestWorkApp\\TestWorkApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TestWorkApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\UwU\\source\\repos\\Test\\TestWorkApp\\TestWorkApp\\MainWindow.xaml",
+              "RelativeToolTip": "TestWorkApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-24T22:14:22.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\UwU\\source\\repos\\Test\\TestWorkApp\\TestWorkApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TestWorkApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\UwU\\source\\repos\\Test\\TestWorkApp\\TestWorkApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TestWorkApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwB0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T22:14:20.597Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
